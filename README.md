@@ -8,7 +8,7 @@ O objetivo principal deste repositório é servir como um catálogo pessoal de r
 
 ## Tecnologias e Ferramentas
 
-* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<img align="center" alt="Davi-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 
 ## Como Executar
 
