@@ -1,4 +1,4 @@
-# Design Patterns
+## Design Patterns
 
 Bem-vindo ao repositório **Design Patterns**! Este espaço é dedicado ao estudo, prática e implementação de diversos Padrões de Projeto.
 
@@ -14,4 +14,4 @@ O objetivo principal deste repositório é servir como um catálogo pessoal de r
 
 1. Clone este repositório para a sua máquina local:
    ```bash
-   git clone [https://github.com/daviimelo/DesignPatterns.git](https://github.com/daviimelo/DesignPatterns.git)
+   git clone https://github.com/daviimelo/DesignPatterns
