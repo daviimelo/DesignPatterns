@@ -2,3 +2,7 @@
 /bridgeControle/
 /facade/
 /facadeService/
+/singleton/
+/builder/
+/prototype/
+/factoryMethod/
